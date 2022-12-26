@@ -1,0 +1,18 @@
+.header-content {
+    max-width: var(--max-width) !important;
+}
+
+.img-header {
+  width: 100vw;
+}
+
+.tagline {
+  background: linear-gradient(
+    90.21deg,
+    rgba(170, 54, 124, 0.5) -5.91%,
+    rgba(74, 47, 189, 0.5) 111.58%
+  );
+}
+
+@media screen and (max-width: 765px) {
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --gray-light-color: #f3f3f3;
+  --gray-color: #cccccc;
+  --gray-dark-color: #666666;
+  --black-color: #151515;
+  --title-color: #333333;
+  --text-color: #222222;
+  --white-alpha-color: #ffffff80;
+  --black-alpha-color: #00000080;
+  --white-color: #fff;
+
+
+  --font:  sans-serif;
+  --max-width: 1200px;
+  --nav-height: 5rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
